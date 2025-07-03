@@ -1,0 +1,21 @@
+Vehicle_ID,Model,Type,Rent_Per_Day,Mileage_kmpl,Year,Availability_Status,Times_Rented
+V001,Hyundai i20,Hatchback,1200,18,2021,Available,50
+V002,Maruti Swift,Hatchback,1100,20,2020,Unavailable,65
+V003,Honda City,Sedan,1800,17,2019,Available,40
+V004,Hyundai Creta,SUV,2200,15,2022,Available,30
+V005,Tata Nexon,SUV,2000,16,2021,Unavailable,45
+V006,Toyota Innova,MPV,2500,14,2020,Available,38
+V007,Kia Seltos,SUV,2300,15,2022,Available,33
+V008,Renault Kwid,Hatchback,1000,22,2023,Available,20
+V009,Skoda Rapid,Sedan,1700,18,2019,Unavailable,29
+V010,MG Hector,SUV,2400,14,2022,Available,25
+V011,Ford EcoSport,SUV,2100,16,2020,Available,41
+V012,Volkswagen Polo,Hatchback,1300,19,2021,Available,36
+V013,Maruti Baleno,Hatchback,1200,21,2023,Available,15
+V014,Honda Amaze,Sedan,1600,18,2019,Unavailable,32
+V015,Tata Tiago,Hatchback,1000,22,2023,Available,18
+V016,Jeep Compass,SUV,2500,14,2021,Unavailable,22
+V017,Toyota Fortuner,SUV,3000,12,2020,Available,19
+V018,Hyundai Verna,Sedan,1750,17,2021,Available,27
+V019,Kia Carens,MPV,2400,15,2022,Available,13
+V020,Renault Triber,MPV,1900,18,2021,Available,21
