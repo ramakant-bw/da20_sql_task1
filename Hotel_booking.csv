@@ -1,0 +1,21 @@
+Booking_ID,Customer_Name,Room_Type,Nights_Stayed,Cost_Per_Night,Total_Amount,Room_No,Rating
+B001,Rahul Mehra,Deluxe,3,4000,12000,101,4.5
+B002,Neha Sharma,Suite,2,6500,13000,202,4.8
+B003,Amit Kapoor,Standard,4,3000,12000,305,4.2
+B004,Priya Nair,Deluxe,2,4000,8000,102,4.6
+B005,Karan Patel,Suite,1,6500,6500,201,4.9
+B006,Shruti Verma,Standard,3,3000,9000,306,4.1
+B007,Arjun Singh,Deluxe,5,4000,20000,103,4.7
+B008,Isha Malhotra,Standard,2,3000,6000,307,4.3
+B009,Siddharth Rao,Suite,3,6500,19500,203,4.9
+B010,Deepika Joshi,Deluxe,1,4000,4000,104,4.4
+B011,Ravi Kumar,Standard,4,3000,12000,308,4.2
+B012,Anjali Gupta,Suite,2,6500,13000,204,5.0
+B013,Vivek Chauhan,Deluxe,3,4000,12000,105,4.5
+B014,Tanvi Desai,Standard,1,3000,3000,309,4.1
+B015,Nikhil Jain,Suite,4,6500,26000,205,4.9
+B016,Megha Singh,Deluxe,2,4000,8000,106,4.6
+B017,Ritika Sen,Standard,3,3000,9000,310,4.2
+B018,Yashwant Rao,Suite,2,6500,13000,206,4.8
+B019,Swati Iyer,Deluxe,1,4000,4000,107,4.4
+B020,Harshita Bhatia,Standard,2,3000,6000,311,4.0
