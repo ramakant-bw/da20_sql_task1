@@ -1,0 +1,21 @@
+Member_ID,Name,Age,Membership_Type,Fee_Paid,Sessions_Attended,Weight_kg,Height_cm
+M001,Rahul Khanna,28,Gold,15000,45,72,175
+M002,Sneha Kapoor,25,Silver,10000,30,60,165
+M003,Amit Deshmukh,35,Platinum,20000,55,78,180
+M004,Priya Nair,31,Gold,15000,50,65,168
+M005,Karan Mehta,29,Silver,10000,35,74,178
+M006,Neha Joshi,26,Platinum,20000,60,59,162
+M007,Ravi Kumar,40,Gold,15000,48,82,172
+M008,Anjali Singh,34,Silver,10000,32,64,160
+M009,Siddharth Reddy,30,Platinum,20000,58,76,182
+M010,Deepika Sharma,27,Gold,15000,42,62,166
+M011,Arjun Patel,33,Silver,10000,36,70,174
+M012,Isha Malhotra,24,Gold,15000,38,58,163
+M013,Vivek Chauhan,36,Platinum,20000,52,80,177
+M014,Megha Jain,29,Silver,10000,33,61,164
+M015,Sameer Verma,32,Gold,15000,47,75,176
+M016,Ritika Sen,26,Platinum,20000,59,57,160
+M017,Harsh Gupta,38,Silver,10000,34,73,171
+M018,Namrata Bhatt,31,Gold,15000,49,66,169
+M019,Yashwanth Rao,27,Platinum,20000,61,79,183
+M020,Tanvi Desai,28,Silver,10000,31,63,167
